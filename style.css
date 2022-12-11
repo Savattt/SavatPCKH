@@ -1,0 +1,12 @@
+.container{
+    width: 90%;
+    height: 500px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+h1{
+    position: relative;
+    
+    align-items: center;
+    
+}
